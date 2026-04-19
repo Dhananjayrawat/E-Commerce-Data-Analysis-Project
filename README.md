@@ -21,7 +21,3 @@ Comprehensive analysis of e-commerce transaction data with focus on:
 ## Installation
 pip install pandas numpy seaborn matplotlib
 
-## Usage
-python analysis.py
-
-## Project Structure
