@@ -4,11 +4,7 @@ Dataset contains 541,909 transactions across multiple countries
 Time period: December 2010 - December 2011
 Strong right-skewed distribution in quantity and price variables
 Data is leptokurtic (high peak with fat tails), indicating presence of extreme values
-2. Outlier Analysis
-Standard Deviation Distribution:
-Within 1 STD: 94.45%
-Within 2 STD: 96.45%
-Within 3 STD: 98.04%
+2. Outlier Analysis:
 Outliers found: 9,995 transactions (1.84% of data)
 Used cube root transformation to normalize extreme values while preserving negative values
 3. Purchase Segregation
