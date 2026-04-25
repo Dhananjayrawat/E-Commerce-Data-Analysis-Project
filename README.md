@@ -16,7 +16,6 @@ Comprehensive analysis of e-commerce transaction data with focus on:
 ## Key Metrics
 - 541,909 transactions analyzed
 - 9,995 outliers detected
-- ~94% of data within 1 standard deviation after cleaning
 
 ## Installation
 pip install pandas numpy seaborn matplotlib
